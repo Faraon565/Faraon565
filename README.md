@@ -33,7 +33,7 @@ Backend-сервис на Go для работы с пользователями
 
 **Технологии:** Go, PostgreSQL, RabbitMQ, Docker, REST API, JWT, Prometheus, Grafana
 
-### ◆ Система преобразования естественного языка в SQL
+### ◆ [Система преобразования естественного языка в SQL](https://github.com/Faraon565/natural-language-to-sql)
 
 Командный проект, позволяющий формировать SQL-запросы по текстовому описанию пользователя.
 
