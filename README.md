@@ -25,7 +25,7 @@ Prometheus, Grafana
 
 ## Проекты
 
-### ◆ Backend-сервис аренды
+### ◆ [Backend-сервис аренды](https://github.com/Faraon565/rental-service)
 
 Backend-сервис на Go для работы с пользователями и бронированиями.
 
